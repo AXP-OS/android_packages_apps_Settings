@@ -308,4 +308,7 @@
     <string name="tethering_allow_vpn_upstreams_title">Clients erlauben VPN zu verwenden</string>
     <string name="tethering_allow_vpn_upstreams_summary">Erlaubt Hotspot-Clients die VPN-Verbindungen dieses Gerätes für die Upstream-Konnektivität zu verwenden</string>
     <string name="network_settings_shortcut_title">Mobilfunknetz</string>
+    <string name="captive_portal_switch_title">Captive Portal Erkennung</string>
+    <string name="captive_portal_switch_summary">Ein-/Ausschalten der Captive-Portal-Erkennung (Vorgabe EIN).</string>
+    <string name="captive_portal_switch_warning">Nach dem Ausschalten der Captive-Portal-Erkennung empfangen Sie keine Verbindungs-Rückmeldung mehr. Wirklich fortfahren?</string>
 </resources>
