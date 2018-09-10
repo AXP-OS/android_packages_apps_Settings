@@ -112,4 +112,7 @@
     <string name="backup_transport_title">Backup-Anbieter auswählen</string>
     <string name="fast_charging_title">Schnelles Laden</string>
     <string name="fast_charging_summary">Deaktivieren, um die vom Gerät beim Laden erzeugte Wärme zu reduzieren oder die Lebensdauer des Akkus zu verlängern</string>
+    <string name="captive_portal_switch_title">Captive Portal Erkennung</string>
+    <string name="captive_portal_switch_summary">Ein-/Ausschalten der Captive Portal Erkennung (Vorgabe EIN).</string>
+    <string name="captive_portal_switch_warning">Nach dem Ausschalten der Captive-Portal-Erkennung empfangen Sie keine Verbindungs-Rückmeldung mehr. Wirklich fortfahren?</string>
 </resources>
