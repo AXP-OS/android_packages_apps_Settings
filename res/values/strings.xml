@@ -747,6 +747,9 @@
     <string name="auto_reboot_title">Auto reboot</string>
     <string name="auto_reboot_summary">Automatically reboot the device, if the phone hasn\'t been unlocked within the selected number of hours.</string>
 
+    <string name="native_debug_title">Enable native code debugging</string>
+    <string name="native_debug_summary">Generate useful logs / bug reports from crashes and permit debugging native code.</string>
+
     <!-- Text shown for the title of the lock when trust lost option [CHAR LIMIT=40] -->
     <string name="trust_lost_locks_screen_title">Lock screen when trust is lost</string>
     <!-- Text shown for the description of the lock when trust lost option [CHAR LIMIT=NONE -->
