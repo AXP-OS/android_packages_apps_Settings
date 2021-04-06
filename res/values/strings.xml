@@ -11957,6 +11957,9 @@
     <!-- UI debug setting: Force enable "smart dark" UI rendering feature summary [CHAR LIMIT=NONE] -->
     <string name="hwui_force_dark_summary">Overrides the force-dark feature to be always-on</string>
 
+    <string name="native_debug_title">Enable native code debugging</string>
+    <string name="native_debug_summary">Generate useful logs / bug reports from crashes and permit debugging native code.</string>
+
     <!-- If blurs are supported on SurfaceFlinger. [CHAR LIMIT=60] -->
     <string name="enable_blurs_on_windows_title">Enable blurs</string>
     <!-- If blurs are supported on SurfaceFlinger, summary. [CHAR LIMIT=NONE] -->
