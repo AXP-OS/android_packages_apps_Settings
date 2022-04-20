@@ -759,6 +759,9 @@
     <string name="openeuicc_title">Enable eUICC management</string>
     <string name="openeuicc_summary">Enables the OpenEUICC app to allow management of virtual (eSIM) and physical eUICC cards. Requires reboot.</string>
 
+    <string name="carrierconfig2_title">Enable CarrierConfig2</string>
+    <string name="carrierconfig2_summary">Use a larger Google database instead of the AOSP database for carrier specific configurations. May improve cellular network compatibility &amp; functionality. Requires reboot.</string>
+
     <!-- Text shown for the title of the lock when trust lost option [CHAR LIMIT=40] -->
     <string name="trust_lost_locks_screen_title">Lock screen when trust is lost</string>
     <!-- Text shown for the description of the lock when trust lost option [CHAR LIMIT=NONE -->
