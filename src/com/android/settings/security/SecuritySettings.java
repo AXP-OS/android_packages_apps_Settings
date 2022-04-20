@@ -110,6 +110,7 @@ public class SecuritySettings extends DashboardFragment {
         securityPreferenceControllers.add(new NativeDebugPreferenceController(context));
         securityPreferenceControllers.add(new HostsPreferenceController(context));
         securityPreferenceControllers.add(new OpenEuiccPreferenceController(context));
+        securityPreferenceControllers.add(new CarrierConfig2PreferenceController(context));
         controllers.add(new PreferenceCategoryController(context, SECURITY_CATEGORY)
                 .setChildren(securityPreferenceControllers));
         controllers.addAll(securityPreferenceControllers);
