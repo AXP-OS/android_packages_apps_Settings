@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Yedekleme sağlayıcısını seçin</string>
     <string name="berry_black_theme_title">Saf siyah</string>
     <string name="berry_black_theme_summary">Karanlık tema için saf siyah arka plan</string>
-    <string name="lineagelicense_title">LineageOS yasal</string>
+    <string name="lineagelicense_title">AXP.OS yasal</string>
     <string name="device_info_protected_single_press">Bilgileri göstermek için dokunun</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Geliştirici ayarlarının etkinleştirilmesi için <xliff:g id="step_count">%1$d</xliff:g> adım kaldı.</item>
