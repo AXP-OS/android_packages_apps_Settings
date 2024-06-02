@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Mentési-szolgáltatás kiválasztása</string>
     <string name="berry_black_theme_title">Valódi fekete</string>
     <string name="berry_black_theme_summary">Egy igazán fekete háttér a fekete témákhoz</string>
-    <string name="lineagelicense_title">LineageOS jogi nyilatkozat</string>
+    <string name="lineagelicense_title">AXP.OS jogi nyilatkozat</string>
     <string name="device_info_protected_single_press">Érintés után láthatja az infókat</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Ön <xliff:g id="step_count">%1$d</xliff:g> lépésre van attól, hogy engedélyezze a fejlesztői beállításokat.</item>
