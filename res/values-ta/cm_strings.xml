@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineagelicense_title">LineageOS சட்டம்</string>
+    <string name="lineagelicense_title">AXP.OS சட்டம்</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">வளர்ச்சி அமைப்புகளை செயல்படுத்துவதற்கு <xliff:g id="step_count">%1$d</xliff:g>  படி தொலைவில் நீங்கள் இப்போது உள்ளீர்கள்.</item>
         <item quantity="other">வளர்ச்சி அமைப்புகளை செயல்படுத்துவதற்கு <xliff:g id="step_count">%1$d</xliff:g>  படிகள் தொலைவில் நீங்கள் இப்போது உள்ளீர்கள்.</item>
