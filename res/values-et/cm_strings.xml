@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Vali varunduste pakkuja</string>
     <string name="berry_black_theme_title">Täiesti must</string>
     <string name="berry_black_theme_summary">Täiesti must taust tumeda teema jaoks</string>
-    <string name="lineagelicense_title">LineageOS juriidiline info</string>
+    <string name="lineagelicense_title">AXP.OS juriidiline info</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Olete <xliff:g id="step_count">%1$d</xliff:g> sammu kaugusel arendussätete lubamisest.</item>
         <item quantity="other">Olete <xliff:g id="step_count">%1$d</xliff:g> sammu kaugusel arendussätete lubamisest.</item>
