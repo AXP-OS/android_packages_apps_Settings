@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Selecione o provedor de backup</string>
     <string name="berry_black_theme_title">Preto puro</string>
     <string name="berry_black_theme_summary">Preto puro como cor de fundo para tema escuro</string>
-    <string name="lineagelicense_title">Licença LineageOS</string>
+    <string name="lineagelicense_title">Licença AXP.OS</string>
     <string name="device_info_protected_single_press">Toque para mostrar informações</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Você agora está a <xliff:g id="step_count">%1$d </xliff:g> passo de ativar as configurações de desenvolvimento.</item>
