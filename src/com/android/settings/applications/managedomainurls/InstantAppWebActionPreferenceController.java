@@ -37,7 +37,7 @@ public class InstantAppWebActionPreferenceController extends TogglePreferenceCon
 
     public boolean isChecked() {
         return Settings.Secure.getInt(mContext.getContentResolver(),
-                Settings.Secure.INSTANT_APPS_ENABLED, 1) == 1;
+                Settings.Secure.INSTANT_APPS_ENABLED, 0) == 1;
     }
 
     public boolean setChecked(boolean isChecked) {
