@@ -21,7 +21,7 @@
     <string name="adb_enable_summary_root">อนุญาตการดีบัก Android ในฐานะรูท</string>
     <string name="berry_black_theme_title">ดำสนิท</string>
     <string name="berry_black_theme_summary">พื้นหลังสีดำสนิทสำหรับธีมมืด</string>
-    <string name="lineagelicense_title">เกี่ยวกับกฎหมาย LineageOS</string>
+    <string name="lineagelicense_title">เกี่ยวกับกฎหมาย AXP.OS</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="other">คุณเหลืออีก <xliff:g id="step_count">%1$d</xliff:g> ขั้นก่อนจะสามารถเปิดใช้งานการตั้งค่าการพัฒนา</item>
     </plurals>
