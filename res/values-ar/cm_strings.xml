@@ -235,7 +235,7 @@
     </plurals>
     <string name="show_dev_on_cm">مكّنتَ خيارات المطور!</string>
     <string name="show_dev_already_cm">لا داعي، فخيارات المطور مفعّلة.</string>
-    <string name="lineagelicense_title">قانون LineageOS</string>
+    <string name="lineagelicense_title">قانون AXP.OS</string>
     <string name="status_bar_double_tap_to_sleep_title">اضغط للنوم</string>
     <string name="status_bar_double_tap_to_sleep_summary">الضغط مرتين فوق شريط الحالة لإطفاء الشاشة</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">حدد موقع حساس بصمة الأصبع على <xliff:g id="sensor_location">%1$s</xliff:g> من جهازك اللوحي.</string>

@@ -230,7 +230,7 @@
     </plurals>
     <string name="show_dev_on_cm">개발자 설정이 활성화되었습니다.</string>
     <string name="show_dev_already_cm">이미 개발자 설정이 활성화되어 있습니다.</string>
-    <string name="lineagelicense_title">LineageOS 법적 고지</string>
+    <string name="lineagelicense_title">AXP.OS 법적 고지</string>
     <string name="status_bar_double_tap_to_sleep_title">두드려 화면 끄기</string>
     <string name="status_bar_double_tap_to_sleep_summary">상태 표시줄이나 잠금 화면을 두 번 두드려 화면 끄기</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">태블릿의 <xliff:g id="sensor_location">%1$s</xliff:g>에서 지문 센서를 찾으세요.</string>

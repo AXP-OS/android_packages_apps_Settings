@@ -194,7 +194,7 @@ public class ToggleAccessibilityServicePreferenceFragment
                 // The user confirmed that they accept weaker encryption when
                 // enabling the accessibility service, so change encryption.
                 // Since we came here asynchronously, check encryption again.
-                if (isFullDiskEncrypted()) {
+                if (false) {
                     mLockPatternUtils.clearEncryptionPassword();
                     Settings.Global.putInt(getContentResolver(),
                             Settings.Global.REQUIRE_PASSWORD_TO_DECRYPT, 0);
@@ -211,7 +211,7 @@ public class ToggleAccessibilityServicePreferenceFragment
         switch (which) {
             case DialogInterface.BUTTON_POSITIVE:
                 if (mShownDialogId == DIALOG_ID_ENABLE_WARNING) {
-                    if (isFullDiskEncrypted()) {
+                    if (false) {
                         String title = createConfirmCredentialReasonMessage();
                         Intent intent = ConfirmDeviceCredentialActivity.createIntent(title, null);
                         startActivityForResult(intent,

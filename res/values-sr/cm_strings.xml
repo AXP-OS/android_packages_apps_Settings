@@ -154,7 +154,7 @@
     </plurals>
     <string name="show_dev_on_cm">Омогућили сте опције за програмера!</string>
     <string name="show_dev_already_cm">Нема потебе, опције за програмера су већ омогућене.</string>
-    <string name="lineagelicense_title">Политика приватности LineageOS-а</string>
+    <string name="lineagelicense_title">Политика приватности AXP.OS-а</string>
     <string name="status_bar_double_tap_to_sleep_title">Додир за спавање</string>
     <string name="status_bar_double_tap_to_sleep_summary">Додирните двапут на статусну траку или на закључани екран да бисте искључили екран</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Сензор за отисак прста се налази <xliff:g id="sensor_location">%1$s</xliff:g> телефона.</string>

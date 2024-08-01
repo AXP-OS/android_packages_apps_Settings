@@ -154,7 +154,7 @@
     </plurals>
     <string name="show_dev_on_cm">Du har aktiveret udvikler-indstillinger!</string>
     <string name="show_dev_already_cm">Intet behov, da du allerede har aktiveret udvikler-indstillinger.</string>
-    <string name="lineagelicense_title">LineageOS-juridisk</string>
+    <string name="lineagelicense_title">AXP.OS-juridisk</string>
     <string name="status_bar_double_tap_to_sleep_title">Tryk for at slumre</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dobbelt-tryk på statusbjælken eller låseskærmen, for at slukke for skærmen</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Lokalisér fingeraftrykssensoren på <xliff:g id="sensor_location">%1$s</xliff:g> af din telefon.</string>

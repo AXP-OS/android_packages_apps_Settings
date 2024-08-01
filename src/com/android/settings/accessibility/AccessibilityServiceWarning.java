@@ -107,7 +107,7 @@ public class AccessibilityServiceWarning {
 
         TextView encryptionWarningView = (TextView) content.findViewById(
                 R.id.encryption_warning);
-        if (isFullDiskEncrypted()) {
+        if (false) {
             String text = context.getString(R.string.enable_service_encryption_warning,
                     getServiceName(context, info));
             encryptionWarningView.setText(text);

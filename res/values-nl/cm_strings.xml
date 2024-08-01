@@ -231,7 +231,7 @@
     </plurals>
     <string name="show_dev_on_cm">U hebt de opties voor ontwikkelaars ingeschakeld!</string>
     <string name="show_dev_already_cm">Niet nodig, u hebt de opties voor ontwikkelaars al ingeschakeld.</string>
-    <string name="lineagelicense_title">Juridische informatie van LineageOS</string>
+    <string name="lineagelicense_title">Juridische informatie van AXP.OS</string>
     <string name="status_bar_double_tap_to_sleep_title">Tikken om te slapen</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dubbeltikken op de statusbalk of schermvergrendeling om het scherm uit te schakelen</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Vind de vingerafdruksensor op de <xliff:g id="sensor_location">%1$s</xliff:g> van uw tablet.</string>

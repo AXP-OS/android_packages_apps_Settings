@@ -113,7 +113,7 @@ public class ManageDomainUrls extends SettingsPreferenceFragment
                 mWebAction.setTitle(R.string.web_action_enable_title);
                 mWebAction.setSummary(R.string.web_action_enable_summary);
                 mWebAction.setChecked(Settings.Secure.getInt(getContentResolver(),
-                        Settings.Secure.INSTANT_APPS_ENABLED, 1) != 0);
+                        Settings.Secure.INSTANT_APPS_ENABLED, 0) != 0);
                 mWebAction.setOnPreferenceChangeListener(this);
                 webActionCategory.addPreference(mWebAction);
 

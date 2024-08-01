@@ -142,7 +142,7 @@
     </plurals>
     <string name="show_dev_on_cm">Du har aktivert innstillinger for utviklere!</string>
     <string name="show_dev_already_cm">Ikke nødvendig, du allerede har aktivert utviklingsinnstillinger.</string>
-    <string name="lineagelicense_title">LineageOS juridisk</string>
+    <string name="lineagelicense_title">AXP.OS juridisk</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="default">Finn fingerskanneren på <xliff:g id="sensor_location">%1$s</xliff:g> av telefonen din.</string>
     <string name="security_settings_fingerprint_sensor_location_back">baksiden</string>
     <string name="security_settings_fingerprint_sensor_location_front">forsiden</string>

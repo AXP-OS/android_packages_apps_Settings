@@ -122,7 +122,7 @@
     </plurals>
     <string name="show_dev_on_cm">Du hues d\'Entwéckleroptiounen aktivéiert!</string>
     <string name="show_dev_already_cm">Net néideg, du hues d\'Entwécklungsoptioune schonn aktivéiert.</string>
-    <string name="lineagelicense_title">Rechtlech Hiweiser iwwer LineageOS</string>
+    <string name="lineagelicense_title">Rechtlech Hiweiser iwwer AXP.OS</string>
     <string name="device_hostname">Hostnumm vum Apparat</string>
     <string name="increasing_ring_volume_option_title">Usteigend Schelltounlautstäerkt</string>
     <string name="increasing_ring_min_volume_title">Start-Lautstäerkt</string>
