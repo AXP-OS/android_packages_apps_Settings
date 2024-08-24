@@ -36,7 +36,7 @@
     <string name="adb_over_network">ADB по сети</string>
     <string name="adb_over_network_summary">Включить отладку TCP/IP через сетевые интерфейсы (Wi\u2011Fi и USB-сети). Эта настройка сбрасывается при перезагрузке</string>
     <string name="adb_over_network_warning">Внимание: при включении отладки по сети, возможен неконтролируемый доступ к вашему устройству.\n\nИспользуйте эту функцию только при подключении к доверенным сетям.\n\nВы действительно хотите включить эту функцию?</string>
-    <string name="lineagelicense_title">Политика конфиденциальности LineageOS</string>
+    <string name="lineagelicense_title">Политика конфиденциальности AXP.OS</string>
     <string name="kill_app_longpress_back">Закрытие приложения кнопкой \'Назад\'</string>
     <string name="kill_app_longpress_back_summary">Завершать работу текущего приложения удерживанием кнопки \'Назад\'</string>
     <string name="device_hostname">Сетевое имя устройства</string>

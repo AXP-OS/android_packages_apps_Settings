@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB mbi rrjet</string>
     <string name="adb_over_network_summary">Aktivizo debugimin TCP/IP mbi ndërfaqet e rrjetit (Wi\u2011Fi, rrjetet USB). Ky parametër do të çaktivizohet gjatë rindezjes</string>
     <string name="adb_over_network_warning">PARALAJMRIM: Kur është aktivizuar ADB mbi rrjetin, telefoni juaj është i hapur për ndërhyrje në të gjitha rrjetet e lidhura! \n\n Përdorni vetëm këtë veçori kur jeni të lidhur në rrjete të besuara. \n\n A dëshironi vërtet ta aktivizoni këtë funksion?</string>
-    <string name="lineagelicense_title">Liçensa e LineageOS</string>
+    <string name="lineagelicense_title">Liçensa e AXP.OS</string>
     <string name="kill_app_longpress_back">Mbyll aplikacionin me butonin Prapa</string>
     <string name="kill_app_longpress_back_summary">Mbyll aplikacionin aktual duke mbajtur shtypur butonin Prapa</string>
     <string name="device_hostname">Emri i pajisjes</string>

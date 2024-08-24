@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB attraverso la rete</string>
     <string name="adb_over_network_summary">Attiva il debug TCP/IP attraverso interfacce di rete (Wi\u2011Fi, reti USB). Questa impostazione è ripristinata all\'avvio</string>
     <string name="adb_over_network_warning">ATTENZIONE: Quando ADB in rete è attivata, il telefono è suscettibile di intrusioni su tutte le reti connesse! \n\nUtilizzare questa funzionalità solo quando si è connessi su reti attendibili.\n\nAbilitare questa funzione?</string>
-    <string name="lineagelicense_title">Note legali LineageOS</string>
+    <string name="lineagelicense_title">Note legali AXP.OS</string>
     <string name="kill_app_longpress_back">Termina app con tasto indietro</string>
     <string name="kill_app_longpress_back_summary">Termina l\'applicazione in primo piano tenendo premuto il tasto indietro</string>
     <string name="device_hostname">Hostname dispositivo</string>

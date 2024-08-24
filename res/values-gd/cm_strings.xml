@@ -36,7 +36,7 @@
     <string name="adb_over_network">ADB thar lìonra</string>
     <string name="adb_over_network_summary">Cuir an comas dì-bhugachadh TCP/IP air eadar-aghaidhean lìonraidh (WiFi, lìonraidhean USB). Thèid an roghainn seo ath-shuidheachadh aig àm ath-thòiseachaidh</string>
     <string name="adb_over_network_warning">RABHADH: Nuair a bhios ADB air lìonra an comas, bidh am fòn agad fosgailte airson briseadh a-steach o lìonra co-cheangailte sam bith!\n\nNa cleachd an gleus seo ach nuair a bhios tu air lìonra sa bheil earbsa agad.\n\nA bheil thu cinnteach gu bheil thu airson an gleus seo a chur an comas?</string>
-    <string name="lineagelicense_title">Sgrìobhainnean laghail LineageOS</string>
+    <string name="lineagelicense_title">Sgrìobhainnean laghail AXP.OS</string>
     <string name="kill_app_longpress_back">Marbh aplacaid leis a’ phutan “Air ais”</string>
     <string name="kill_app_longpress_back_summary">Marbh an aplacaid sa bheulaibh le brùthadh fada air a’ phutan “Air ais”</string>
     <string name="device_hostname">Ainm òstair an uidheim</string>
