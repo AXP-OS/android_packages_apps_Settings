@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineagelicense_title">LineageOS משפטי</string>
+    <string name="lineagelicense_title">AXP.OS משפטי</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">אתם נמצאים רק עוד צעד <xliff:g id="step_count">%1$d</xliff:g> מהפעלת אפשרויות מפתח.</item>
         <item quantity="two">אתם נמצאים רק עוד <xliff:g id="step_count">%1$d</xliff:g> צעדים מהפעלת אפשרויות מפתח.</item>
