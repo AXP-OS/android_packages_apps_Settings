@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Select backup provider</string>
     <string name="berry_black_theme_title">Pure black</string>
     <string name="berry_black_theme_summary">Pure black background for dark theme</string>
-    <string name="lineagelicense_title">LineageOS legal</string>
+    <string name="lineagelicense_title">AXP.OS legal</string>
     <string name="device_info_protected_single_press">Tap to show info</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">You are now <xliff:g id="step_count">%1$d</xliff:g> step away from enabling development settings.</item>
