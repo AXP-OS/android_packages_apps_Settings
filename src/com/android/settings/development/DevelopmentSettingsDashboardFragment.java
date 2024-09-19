@@ -626,6 +626,8 @@ public class DevelopmentSettingsDashboardFragment extends RestrictedDashboardFra
         controllers.add(new StylusHandwritingPreferenceController(context));
         controllers.add(new IngressRateLimitPreferenceController((context)));
         controllers.add(new BackAnimationPreferenceController(context, fragment));
+        controllers.add(new SpoofSignaturePreferenceController(context));      // signature spoofing patch
+        controllers.add(new SpoofSignatureInfo(context));       // signature spoofing patch
 
         return controllers;
     }
