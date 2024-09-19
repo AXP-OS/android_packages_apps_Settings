@@ -33,7 +33,7 @@
     <string name="adb_over_network">ADB บนเครือข่าย</string>
     <string name="adb_over_network_summary">เปิดแก้ไขข้อบกพร่องผ่าน TCP/IP โดยใช้อินเตอร์เฟซเครือข่าย (Wi-Fi เครือข่าย USB) การตั้งค่านี้จะมีการรีเซ็ตเมื่อเริ่มระบบ</string>
     <string name="adb_over_network_warning">คำเตือน: เมื่อเปิดใช้งาน ADB บนเครือข่าย โทรศัพท์ของคุณอาจโดนโจมตีจากทุกช่องทางที่เชื่อมต่ออยู่\n\nใช้คุณลักษณะนี้เมื่อคุณเชื่อมต่อกับเครือข่ายที่ไว้ใจได้เท่านั้น\n\nต้องการเปิดใช้งานฟังก์ชันนี้หรือไม่</string>
-    <string name="lineagelicense_title">เกี่ยวกับกฎหมาย LineageOS</string>
+    <string name="lineagelicense_title">เกี่ยวกับกฎหมาย AXP.OS</string>
     <string name="kill_app_longpress_back">ปิดแอปด้วยปุ่มกลับ</string>
     <string name="kill_app_longpress_back_summary">ปิดแอปที่กำลังใช้งานโดยกดปุ่มกลับค้าง</string>
     <string name="device_hostname">ชื่อโฮสต์ของอุปกรณ์</string>
