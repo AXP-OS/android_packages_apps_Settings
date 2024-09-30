@@ -31,7 +31,7 @@
     <string name="adb_over_network">ಜಾಲದ ಮೂಲಕ ADB</string>
     <string name="adb_over_network_summary">ಜಾಲ ಅಂತರಮುಖಗಳ (Wi\u2011Fi, USB) ಮೂಲಕ TCP/IP ದೋಷ ನಿರ್ಮೂಲನೆ ಸಶಕ್ತಿಸು. ಈ ಅಳವಡಿಕೆ ಮರುಸಜ್ಜಾದಾಗ ಹಿಂದಿರುಗುತ್ತದೆ</string>
     <string name="adb_over_network_warning">ಎಚ್ಚರಿಕೆ: ಜಾಲದ ಮೂಲಕ ADB ಸಶಕ್ತಗೊಳಿಸಿದಾಗ, ನಿಮ್ಮ ಫೋನ್ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಎಲ್ಲಾ ಜಾಲಗಳಿಂದ ಅತಿಕ್ರಮಣಕ್ಕೆ ತೆರೆದಿರುತ್ತದೆ!\n\nನೀವು ವಿಶ್ವಾಸಾರ್ಹ ಜಾಲಗಳಲ್ಲಿ ಮಾತ್ರ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಉಪಯೋಗಿಸಿ.\n\nಈಗಲೂ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸಶಕ್ತಗೊಳಿಸಬೇಕೆ?</string>
-    <string name="lineagelicense_title">LineageOS ಕಾನೂನು</string>
+    <string name="lineagelicense_title">AXP.OS ಕಾನೂನು</string>
     <string name="kill_app_longpress_back">ಆಪ್ ಕೊಲ್ಲು ಹಿಂದೆ ಗುಂಡಿ</string>
     <string name="kill_app_longpress_back_summary">ಹಿಂದೆ ಗುಂಡಿಯನ್ನು ದೀರ್ಘ-ಸ್ಪರ್ಶಿಸಿ ಮುನ್ನೆಲೆ ಆಪನ್ನು ಕೊಲ್ಲಿ</string>
     <string name="device_hostname">ಸಾಧನದ ಸಮೂಹನಾಮ</string>

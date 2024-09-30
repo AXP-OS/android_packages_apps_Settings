@@ -32,7 +32,7 @@
     <string name="adb_notify_summary">Amuesa un avisu cuando la depuración per USB o pela rede ta activada</string>
     <string name="adb_over_network">ADB per rede</string>
     <string name="adb_over_network_summary">Activa la depuración TCP/IP peles interfaces de rede (redes Wi\u2011Fi y USB). Esti axuste reafítase al reaniciar</string>
-    <string name="lineagelicense_title">Información llegal de LineageOS</string>
+    <string name="lineagelicense_title">Información llegal de AXP.OS</string>
     <string name="kill_app_longpress_back_summary">Mata l\'aplicación del primer planu al tener primíu\'l botón «Volver»</string>
     <string name="device_hostname">Nome del preséu</string>
     <string name="tethering_allow_vpn_upstreams_title">Permitir que los veceros usen les VPNs</string>
