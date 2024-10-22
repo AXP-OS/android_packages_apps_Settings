@@ -30,7 +30,7 @@
     <string name="adb_over_network">ADB over netværk</string>
     <string name="adb_over_network_summary">Aktivér TCP/IP-fejlfinding over netværksgrænseflader (Wi\u2011Fi, USB-netværk). Denne indstilling nulstilles ved genstart</string>
     <string name="adb_over_network_warning">ADVARSEL: Når ADB over netværk er aktiveret, er din telefon åben for indtrængen på alle forbundne netværk!\n\nBenyt kun denne funktion, når du er forbundet på betroede netværk.\n\nVil du virkelig aktivere denne funktion?</string>
-    <string name="lineagelicense_title">LineageOS-juridisk</string>
+    <string name="lineagelicense_title">AXP.OS-juridisk</string>
     <string name="kill_app_longpress_back">Luk app tilbage-knap</string>
     <string name="kill_app_longpress_back_summary">Luk forgrunds-app\'en, ved langt tryk på tilbage-knappen</string>
     <string name="device_hostname">Enheds værtsnavn</string>
