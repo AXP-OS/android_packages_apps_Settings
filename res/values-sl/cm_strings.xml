@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Izberite ponudnika varnostnih kopij</string>
     <string name="berry_black_theme_title">Popolnoma črna</string>
     <string name="berry_black_theme_summary">Popolnoma črno ozadje za temno temo</string>
-    <string name="lineagelicense_title">Pravna obvestila LineageOS</string>
+    <string name="lineagelicense_title">Pravna obvestila AXP.OS</string>
     <string name="device_info_protected_single_press">Tapnite za prikaz informacij</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Zdaj ste <xliff:g id="step_count">%1$d</xliff:g> korak pred omogočenjem nastavitev za razvijalce.</item>
