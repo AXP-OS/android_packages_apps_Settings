@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="berry_black_theme_title">Helsvart</string>
     <string name="berry_black_theme_summary">Helsvart bakgrund för mörkt tema</string>
-    <string name="lineagelicense_title">LineageOS Juridik</string>
+    <string name="lineagelicense_title">AXP.OS Juridik</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Du är nu <xliff:g id="step_count">%1$d</xliff:g> steg från att aktivera utvecklingsinställningar.</item>
         <item quantity="other">Du är nu <xliff:g id="step_count">%1$d</xliff:g> steg från att aktivera utvecklingsinställningar.</item>
