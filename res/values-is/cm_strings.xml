@@ -31,7 +31,7 @@
     <string name="adb_enable_summary_root">Leyfa að villuleit í Android sé keyrð sem kerfisstjóri/root</string>
     <string name="berry_black_theme_title">Hreint svart</string>
     <string name="berry_black_theme_summary">Hreinn svartur bakgrunnur í dökku þema</string>
-    <string name="lineagelicense_title">Lagalegir fyrirvarar LineageOS</string>
+    <string name="lineagelicense_title">Lagalegir fyrirvarar AXP.OS</string>
     <string name="status_bar_double_tap_to_sleep_title">Ýttu til að svæfa</string>
     <string name="status_bar_double_tap_to_sleep_summary">Tvíbankaðu á stöðustikuna eða læsiskjáinn til að slökkva á skjánum</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Finndu fingrafaraskannann á <xliff:g id="sensor_location">%1$s</xliff:g> á spjaldtölvunni þinni.</string>

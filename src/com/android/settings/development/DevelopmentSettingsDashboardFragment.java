@@ -583,6 +583,10 @@ public class DevelopmentSettingsDashboardFragment extends RestrictedDashboardFra
                 bluetoothA2dpConfigStore, fragment));
         controllers.add(new SharedDataPreferenceController(context));
         controllers.add(new OverlaySettingsPreferenceController(context));
+        controllers.add(new SpoofSignaturePreferenceController(context));      // extendrom: signature spoofing patch
+        controllers.add(new SpoofSignatureInfo(context));       // extendrom: signature spoofing patch
+        controllers.add(new ER_CallRecPreferenceController(context)); // extendrom call recording
+        controllers.add(new ER_CallRecInfo(context)); // extendrom call recording
 
         return controllers;
     }
