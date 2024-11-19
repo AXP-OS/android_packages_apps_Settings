@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB oer netwurk</string>
     <string name="adb_over_network_summary">TCP/IP-flateropspoaring ynskeakelje oer netwurkynterfaces (wifi, USB-netwurken). Wurdt opnij ynsteld by opstarten</string>
     <string name="adb_over_network_warning">Let op: as ADB oer netwurk ynskeakele is, kin op jo apparaat ynbrutsen wurde fia alle oansluten netwurken!\n\nBrûk dizze funksje allinnich as jo ferbûn binne mei fertroude netwurken.\n\nBinne jo wi dat jo dizze funksje ynskeakelje wolle?</string>
-    <string name="lineagelicense_title">Juridyske ynformaasje fan LineageOS</string>
+    <string name="lineagelicense_title">Juridyske ynformaasje fan AXP.OS</string>
     <string name="kill_app_longpress_back">Stopjen forsearje</string>
     <string name="kill_app_longpress_back_summary">Iepensteande app forsearre stopje troch tebekknop lang yn te drukken</string>
     <string name="device_hostname">Hostnamme apparaat</string>

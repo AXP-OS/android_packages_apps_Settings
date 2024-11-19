@@ -24,7 +24,7 @@
     <string name="adb_over_network">„Android“ derinimas per tinklą</string>
     <string name="adb_over_network_summary">Įgalinti TCP / IP derinimą per tinklą („Wi-Fi“, USB tinklai). Šis nustatymas nustatomas iš naujo, paleidimo iš naujo metu</string>
     <string name="adb_over_network_warning">ISPĖJIMAS: Kai „Android“ derinimas per tinklą yra įgalintas, jūsų telefonas yra atviras įsibrovimams iš visų prijungtų tinklų!\n\nNaudokite šią funkciją tik tada, kai esate prisijungę prie patikimų tinklų.\n\nAr tikrai norite įgalinti šią funkciją?</string>
-    <string name="lineagelicense_title">Teisinė „LineageOS“ informacija</string>
+    <string name="lineagelicense_title">Teisinė „AXP.OS“ informacija</string>
     <string name="kill_app_longpress_back">Priverstinai uždaryti programą mygtuku atgal</string>
     <string name="kill_app_longpress_back_summary">Priverstinai uždaryti programą ilgai spaudžiant mygtuką atgal</string>
     <string name="device_hostname">Įrenginio vardas tinkle</string>
