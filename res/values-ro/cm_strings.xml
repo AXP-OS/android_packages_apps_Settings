@@ -32,7 +32,7 @@
     <string name="adb_enable_summary_root">Permite depanării sistemului Android să ruleze în modul root</string>
     <string name="berry_black_theme_title">Negru pur</string>
     <string name="berry_black_theme_summary">Fundal negru pur pentru tema întunecată</string>
-    <string name="lineagelicense_title">Juridic LineageOS</string>
+    <string name="lineagelicense_title">Juridic AXP.OS</string>
     <string name="status_bar_double_tap_to_sleep_title">Atingeți pentru sleep</string>
     <string name="status_bar_double_tap_to_sleep_summary">Atingeți de două ori bara de stare sau ecranul de blocare pentru a opri ecranul</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Localizați senzorul de amprentă în <xliff:g id="sensor_location">%1$s</xliff:g> tabletei dumneavoastră.</string>
