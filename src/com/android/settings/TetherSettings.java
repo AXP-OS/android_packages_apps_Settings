@@ -162,6 +162,8 @@ public class TetherSettings extends RestrictedSettingsFragment
             return;
         }
 
+        setupTetherPreference();
+
         final Activity activity = getActivity();
         BluetoothAdapter adapter = BluetoothAdapter.getDefaultAdapter();
         if (adapter != null) {
@@ -169,7 +171,6 @@ public class TetherSettings extends RestrictedSettingsFragment
                     BluetoothProfile.PAN);
         }
 
-        setupTetherPreference();
         setTopIntroPreferenceTitle();
 
         mDataSaverBackend.addListener(this);
@@ -561,6 +562,7 @@ public class TetherSettings extends RestrictedSettingsFragment
             new BluetoothProfile.ServiceListener() {
         public void onServiceConnected(int profile, BluetoothProfile proxy) {
             mBluetoothPan.set((BluetoothPan) proxy);
+            updateBluetoothState();
         }
         public void onServiceDisconnected(int profile) {
             mBluetoothPan.set(null);
