@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB чрез мрежата</string>
     <string name="adb_over_network_summary">Разреши TCP/IP откриване на грешки през мрежови интерфейси (Wi\u2011Fi, USB мрежи). Тази настройка се нулира при рестартиране</string>
     <string name="adb_over_network_warning">Предупреждение: Когато ADB по мрежата е разрешен, телефонът ви е отворен за проникване от всички свързани мрежи! \n\nИзползвай тази функция, само когато сте свързан с надеждни мрежи.\n\nНаистина ли искате да разрешите тази функция?</string>
-    <string name="lineagelicense_title">LineageOS правна информация</string>
+    <string name="lineagelicense_title">AXP.OS правна информация</string>
     <string name="kill_app_longpress_back">Спиране на приложение</string>
     <string name="kill_app_longpress_back_summary">Спиране на приложение на преден план с дълго натискане на бутон Назад</string>
     <string name="device_hostname">Хост име на устройството</string>

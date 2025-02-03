@@ -34,7 +34,7 @@
     <string name="adb_over_network">Şəbəkə üzərindən ADB</string>
     <string name="adb_over_network_summary">Şəbəkə interfeysləri (Wi\u2011Fi, USB şəbəkələri) üzərindən TCP/IP sazlamanı fəallaşdır. Bu ayar yenidən başladılanda sıfırlanır</string>
     <string name="adb_over_network_warning">XƏBƏRDARLIQ: Şəbəkə üzərindən ADB fəal olduğu halda, telefonunuz bütün bağlantı qurulmuş şəbəkələrdə müdaxilələrə açıqdır!\n\nBu funksiya yalnız etibarlı şəbəkələrə bağlı olduğunuz zaman istifadə edin.\n\nHəqiqətən də bu özəliyi fəallaşdırmaq istəyirsiniz?</string>
-    <string name="lineagelicense_title">LineageOS qanuni</string>
+    <string name="lineagelicense_title">AXP.OS qanuni</string>
     <string name="kill_app_longpress_back">Tətbiq dayandırıcı geri düyməsi</string>
     <string name="kill_app_longpress_back_summary">Geri düyməsinə uzun basmaq önplandakı tətbiqi dayandırar</string>
     <string name="device_hostname">Cihaz şəbəkə adı</string>
