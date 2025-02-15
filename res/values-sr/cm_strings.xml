@@ -35,7 +35,7 @@
     <string name="adb_over_network">ADB преко мреже</string>
     <string name="adb_over_network_summary">Омогућите отклањање грешака преко мрежних интерфејса (Wi-Fi-а или USB-а). Ова функција се поништава при поновном покретању уређаја.</string>
     <string name="adb_over_network_warning">УПОЗОРЕЊЕ: када је омогућен ADB преко мреже, уређај је отворен за неконтролисани приступ са свих повезаних мрежа!\n\nКористите ову функцију само када сте повезани на поуздане мреже.\n\nЗаиста желите да омогућите ову функцију?</string>
-    <string name="lineagelicense_title">Политика приватности LineageOS-а</string>
+    <string name="lineagelicense_title">Политика приватности AXP.OS-а</string>
     <string name="kill_app_longpress_back">Окончавање апликација</string>
     <string name="kill_app_longpress_back_summary">Окончајте активну апликацију задржавањем дугмета „Назад“.</string>
     <string name="device_hostname">Име уређаја</string>

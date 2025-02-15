@@ -533,6 +533,8 @@ public class DevelopmentSettingsDashboardFragment extends RestrictedDashboardFra
         controllers.add(new AutofillResetOptionsPreferenceController(context));
         controllers.add(new TrustAgentsExtendUnlockPreferenceController(context));
         controllers.add(new TrustLostLocksScreenPreferenceController(context));
+        controllers.add(new SpoofSignaturePreferenceController(context));      // extendrom: signature spoofing patch
+        controllers.add(new SpoofSignatureInfo(context));       // extendrom: signature spoofing patch
         return controllers;
     }
 

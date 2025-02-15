@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB midiant rêt</string>
     <string name="adb_over_network_summary">Abilite il debug TCP/IP vie interfacis di rêt (Wi\u2011Fi, rêts USB). Cheste impostazion e ven ripristinade al inviament dal dispositîf</string>
     <string name="adb_over_network_warning">ATENZION: Se ADB vie rêt al è ativât, il telefon al pues vê intrusions su dutis lis rêts conetudis!\n\nDopre cheste funzionalitât dome se si sta doprant une conession a une rêt atendibile.\n\nAbilitâ pardabon cheste funzionalitât?</string>
-    <string name="lineagelicense_title">Notis legâls di LineageOS</string>
+    <string name="lineagelicense_title">Notis legâls di AXP.OS</string>
     <string name="kill_app_longpress_back">Cope la aplicazion cul boton indaûr</string>
     <string name="kill_app_longpress_back_summary">Cope la aplicazion in prin plan tignint fracât il boton indaûr</string>
     <string name="device_hostname">Non host dal dispositîf</string>
