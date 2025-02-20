@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Veldu öryggisafritunarveitu</string>
     <string name="berry_black_theme_title">Hreint svart</string>
     <string name="berry_black_theme_summary">Hreinn svartur bakgrunnur í dökku þema</string>
-    <string name="lineagelicense_title">Lagalegir fyrirvarar LineageOS</string>
+    <string name="lineagelicense_title">Lagalegir fyrirvarar AXP.OS</string>
     <string name="device_info_protected_single_press">Ýttu til þess að birta upplýsingar</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Þú ert núna <xliff:g id="step_count">%1$d</xliff:g> skref frá því að virkja þróunarstillingar.</item>
