@@ -30,7 +30,7 @@
     <string name="adb_enable_summary_root">Luba Androidi silumist juurkasutajaga</string>
     <string name="berry_black_theme_title">Täiesti must</string>
     <string name="berry_black_theme_summary">Täiesti must taust tumeda teema jaoks</string>
-    <string name="lineagelicense_title">LineageOS juriidiline info</string>
+    <string name="lineagelicense_title">AXP.OS-slim juriidiline info</string>
     <string name="status_bar_double_tap_to_sleep_title">Koputa unerežiimiks</string>
     <string name="status_bar_double_tap_to_sleep_summary">Topeltkoputa olekuriba või lukustuskuva ekraani väljalülitamiseks</string>
     <string name="heads_up_notifications_enabled_title">Hüpikmärguanded</string>
