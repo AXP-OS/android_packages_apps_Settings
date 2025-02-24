@@ -26,7 +26,7 @@
     <string name="advanced_reboot_summary">Wannear ûntskoattele, opsjes toane yn it oan/út-knopmenu foar opnij starten nei recovery of bootloader</string>
     <string name="adb_enable_root">Root-debugging</string>
     <string name="adb_enable_summary_root">Android-debugging as root tastean</string>
-    <string name="lineagelicense_title">Juridyske ynformaasje fan LineageOS</string>
+    <string name="lineagelicense_title">Juridyske ynformaasje fan AXP.OS</string>
     <string name="status_bar_double_tap_to_sleep_title">Dûbeld tikke foar sliepstân</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dûbeld tikke op de steatbalke of beskoattelskerm om it skerm út te skeakeljen</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">Fyn de fingerôfdruksensor op de <xliff:g id="sensor_location">%1$s</xliff:g> fan jo tablet.</string>
