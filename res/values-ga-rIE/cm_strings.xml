@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Roghnaigh soláthraí cúltaca</string>
     <string name="berry_black_theme_title">Dubh íon</string>
     <string name="berry_black_theme_summary">Cúlra dubh íon le haghaidh téama dorcha</string>
-    <string name="lineagelicense_title">LineageOS dlíthiúil</string>
+    <string name="lineagelicense_title">AXP.OS-slim dlíthiúil</string>
     <string name="device_info_protected_single_press">Tapáil chun eolas a thaispeáint</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Tá tú <xliff:g id="step_count">%1$d</xliff:g> céim ar shiúl ó na socruithe forbartha a chumasú anois.</item>
