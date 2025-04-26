@@ -18,7 +18,7 @@
     <string name="adb_enable_root">Depuración como Superusuario</string>
     <string name="adb_enable_summary_root">Permitir ejecutar la depuración de Android como superusuario</string>
     <string name="berry_black_theme_title">Negro puro</string>
-    <string name="lineagelicense_title">Licencia de LineageOS</string>
+    <string name="lineagelicense_title">Licencia de AXP.OS-slim</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Estás a <xliff:g id="step_count">%1$d</xliff:g> paso de activar los ajustes de desarrollo.</item>
         <item quantity="other">Estás a <xliff:g id="step_count">%1$d</xliff:g> pasos de activar los ajustes de desarrollo.</item>
