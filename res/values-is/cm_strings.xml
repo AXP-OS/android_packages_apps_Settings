@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB yfir net</string>
     <string name="adb_over_network_summary">Virkja TCP/IP afslúsun yfir netkort (Wi\u2011Fi, USB-net). Þetta er endurstillt við endurræsingu</string>
     <string name="adb_over_network_warning">AÐVÖRUN: Þegar valið er ADB í gegnum netkerfi, er síminn þinn óvarinn fyrir innrásum á öllum tengdum netkerfum!\n\nNotaðu þennan eiginleika eingöngu þegar þú ert tengdur á netkerfum sem þú treystir.\n\nErtu alveg viss um að þú viljir virkja þennan eiginleika?</string>
-    <string name="lineagelicense_title">Lagalegir fyrirvarar LineageOS</string>
+    <string name="lineagelicense_title">Lagalegir fyrirvarar AXP.OS</string>
     <string name="kill_app_longpress_back">\'Til baka\'-hnappur drepur forrit</string>
     <string name="kill_app_longpress_back_summary">Lokaðu forriti alveg með því að ýta á \'Til baka\'-hnappinn</string>
     <string name="device_hostname">Vélarheiti tækis</string>
