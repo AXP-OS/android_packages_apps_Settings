@@ -19,6 +19,26 @@
                   android:key="development_prefs_screen"
                   android:title="@string/development_settings_title">
 
+    <!-- extendrom intercept installation source check -->
+    <PreferenceCategory
+        android:key="extendrom_orr_installsrc_category"
+        android:title="@string/extendrom_orr_installsrc_category"
+        android:order="9990">
+
+       <Preference
+            android:key="extendrom_orr_installsrc_info"
+            android:summary="@string/extendrom_orr_installsrc_details" />
+
+       <SwitchPreference
+            android:key="extendrom_orr_installsrc"
+            android:title="@string/extendrom_orr_installsrc"
+            android:summary="@string/extendrom_orr_installsrc_summary"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+    <!-- end: extendrom intercept installation source check -->
+
+
     <!-- extendrom call recording patch -->
     <PreferenceCategory
         android:key="extendrom_call_recording_category"
