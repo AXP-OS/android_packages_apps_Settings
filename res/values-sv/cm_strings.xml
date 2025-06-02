@@ -26,7 +26,7 @@
     <string name="advanced_reboot_title">Avancerad omstart</string>
     <string name="berry_black_theme_title">Helsvart</string>
     <string name="berry_black_theme_summary">Helsvart bakgrund för mörkt tema</string>
-    <string name="lineagelicense_title">LineageOS Juridik</string>
+    <string name="lineagelicense_title">AXP.OS-slim Juridik</string>
     <string name="status_bar_double_tap_to_sleep_title">Dubbeltryck för att släcka skärmen</string>
     <string name="security_settings_fingerprint_sensor_location_back">bakre</string>
     <string name="security_settings_fingerprint_sensor_location_front">främre</string>
