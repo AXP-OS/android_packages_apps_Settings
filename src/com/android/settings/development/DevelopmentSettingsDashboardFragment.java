@@ -587,6 +587,8 @@ public class DevelopmentSettingsDashboardFragment extends RestrictedDashboardFra
         controllers.add(new SpoofSignatureInfo(context));       // extendrom: signature spoofing patch
         controllers.add(new ER_CallRecPreferenceController(context)); // extendrom call recording
         controllers.add(new ER_CallRecInfo(context)); // extendrom call recording
+        controllers.add(new ER_OrrInstallSrcPreferenceController(context)); // extendrom orr_installsrc
+        controllers.add(new ER_OrrInstallSrcInfo(context)); // extendrom orr_installsrc
 
         return controllers;
     }
