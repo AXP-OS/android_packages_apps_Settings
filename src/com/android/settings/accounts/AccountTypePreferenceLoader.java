@@ -51,6 +51,7 @@ import com.android.settingslib.accounts.AuthenticatorHelper;
 import com.android.settingslib.core.instrumentation.Instrumentable;
 
 import java.util.Set;
+import androidx.annotation.VisibleForTesting;
 
 /**
  * Class to load the preference screen to be added to the settings page for the specific account
