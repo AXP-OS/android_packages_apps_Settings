@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Kies back-up provider</string>
     <string name="berry_black_theme_title">Puur zwart</string>
     <string name="berry_black_theme_summary">Puur zwarte achtergrond voor donker thema</string>
-    <string name="lineagelicense_title">Juridische informatie van LineageOS</string>
+    <string name="lineagelicense_title">Juridische informatie van AXP.OS</string>
     <string name="device_info_protected_single_press">Tik om info te tonen</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">U bent nog <xliff:g id="step_count">%1$d</xliff:g> stap verwijderd van de opties voor ontwikkelaars.</item>
