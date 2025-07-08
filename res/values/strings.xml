@@ -756,6 +756,9 @@
     <string name="hosts_disable_title">Disable DNS content blocker</string>
     <string name="hosts_disable_summary">Disables use of the included /etc/hosts database for data collection and malware blocking.</string>
 
+    <string name="openeuicc_title">Enable eUICC management</string>
+    <string name="openeuicc_summary">Enables the OpenEUICC app to allow management of virtual (eSIM) and physical eUICC cards. Requires reboot.</string>
+
     <!-- Text shown for the title of the lock when trust lost option [CHAR LIMIT=40] -->
     <string name="trust_lost_locks_screen_title">Lock screen when trust is lost</string>
     <!-- Text shown for the description of the lock when trust lost option [CHAR LIMIT=NONE -->
