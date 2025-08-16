@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Selectați furnizorul de backup</string>
     <string name="berry_black_theme_title">Negru pur</string>
     <string name="berry_black_theme_summary">Fundal negru pur pentru tema întunecată</string>
-    <string name="lineagelicense_title">Juridic LineageOS</string>
+    <string name="lineagelicense_title">Juridic AXP.OS</string>
     <string name="device_info_protected_single_press">Atingeți pentru a afișa informații</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Ești la <xliff:g id="step_count">%1$d</xliff:g> pas distanță de a activa opțiunile de dezvoltator.</item>
