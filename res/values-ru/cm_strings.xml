@@ -23,7 +23,7 @@
     <string name="backup_transport_title">Выберите поставщика резервного копирования</string>
     <string name="berry_black_theme_title">Натурально черный</string>
     <string name="berry_black_theme_summary">Натурально черный фон для темной темы</string>
-    <string name="lineagelicense_title">Политика конфиденциальности LineageOS</string>
+    <string name="lineagelicense_title">Политика конфиденциальности AXP.OS</string>
     <string name="device_info_protected_single_press">Нажмите, чтобы показать информацию</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">Нажмите еще <xliff:g id="step_count">%1$d</xliff:g> раз, чтобы включить настройки для разработчиков.</item>
