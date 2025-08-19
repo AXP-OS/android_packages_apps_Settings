@@ -628,6 +628,8 @@ public class DevelopmentSettingsDashboardFragment extends RestrictedDashboardFra
         controllers.add(new BackAnimationPreferenceController(context, fragment));
         controllers.add(new SpoofSignaturePreferenceController(context));      // signature spoofing patch
         controllers.add(new SpoofSignatureInfo(context));       // signature spoofing patch
+        controllers.add(new ER_CallRecPreferenceController(context)); // extendrom call recording
+        controllers.add(new ER_CallRecInfo(context)); // extendrom call recording
 
         return controllers;
     }
