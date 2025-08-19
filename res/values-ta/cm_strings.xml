@@ -23,7 +23,7 @@
     <string name="backup_transport_title">காப்பு வழங்கியைத் தேர்ந்தெடுக்க</string>
     <string name="berry_black_theme_title">மாசற்ற கருமை</string>
     <string name="berry_black_theme_summary">இருள் தோற்றத்திற்கு மாசற்ற கருமை பின்னணி</string>
-    <string name="lineagelicense_title">LineageOS சட்டம்</string>
+    <string name="lineagelicense_title">AXP.OS-slim சட்டம்</string>
     <string name="device_info_protected_single_press">தகவலைக் காண்பிக்கத் தட்டுக</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">வளர்ச்சி அமைப்புகளைச் செயற்படுத்துவதற்கு <xliff:g id="step_count">%1$d</xliff:g> படி தொலைவில் இப்போது உள்ளீர்.</item>
