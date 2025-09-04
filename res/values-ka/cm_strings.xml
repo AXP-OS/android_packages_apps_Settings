@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB ქსელით</string>
     <string name="adb_over_network_summary">ჩაირთოს TCP/IP-ის ქსელით გამართვა (Wi\u2011Fi, USB-ქსელებით). ეს პარამეტრი განულდება გადატვირთვისას</string>
     <string name="adb_over_network_warning">ᲧᲣᲠᲐᲓᲦᲔᲑᲐ: როცა ჩართულია ADB ქსელით, თქვენი ტელეფონი ღიაა შეღწევისგან ყველა მიერთებული ქსელიდან!\n\nეს შესაძლებლობა გამოიყენეთ მხოლოდ სანდო ქსელებთან კავშირისას.\n\nნამდვილად გსურთ, ჩაირთოს?</string>
-    <string name="lineagelicense_title">LineageOS – სამართლებრივი</string>
+    <string name="lineagelicense_title">AXP.OS – სამართლებრივი</string>
     <string name="kill_app_longpress_back">აპის გათიშვა უკუსვლის ღილაკით</string>
     <string name="kill_app_longpress_back_summary">მიმდინარე აპის დაუყოვნებლივ გათიშვა უკუსვლის ღილაკზე დიდხანს დაჭერით</string>
     <string name="device_hostname">მოწყობილობის ქსელური სახელი</string>

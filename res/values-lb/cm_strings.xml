@@ -28,7 +28,7 @@
     <string name="adb_over_network">ADB iwwer Netzwierk</string>
     <string name="adb_over_network_summary">TCP/IP-Debugging iwwer Netzwierkschnëttstellen (WLAN, USB-Netzwierker) aktivéieren. Dës Astellung gëtt beim Neistart zréckgesat</string>
     <string name="adb_over_network_warning">WARNUNG: Wann ADB iwwer Netzwierk aktivéiert ass, ass däin Telefon op fir Intrusiounen aus alle connectéierten Netzwierker!\n\nBenotz dës Funktioun just, wann s du mat vertrauenswierdegen Netzwierker connectéiert bass.\n\nWëlls du dës Funktioun aktivéieren?</string>
-    <string name="lineagelicense_title">Rechtlech Hiweiser iwwer LineageOS</string>
+    <string name="lineagelicense_title">Rechtlech Hiweiser iwwer AXP.OS</string>
     <string name="kill_app_longpress_back">Appe mam \"Zréck\"-Knäppchen zoumaachen</string>
     <string name="kill_app_longpress_back_summary">D\'App am Virgrond zoumaache wann den \"Zréck\"-Knäppche laang gedréckt gëtt</string>
     <string name="device_hostname">Hostnumm vum Apparat</string>
