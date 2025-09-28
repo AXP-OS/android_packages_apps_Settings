@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineagelicense_title">LineageOS lકાયદાકીય</string>
+    <string name="lineagelicense_title">AXP.OS lકાયદાકીય</string>
     <plurals name="show_dev_countdown_cm">
         <item quantity="one">હવે તમે ડેવેલપમેન્ટ સેટિંગ્સ સક્ષમ કરવાથી <xliff:g id="step_count">%1$d</xliff:g> પગલા દૂર છો.</item>
         <item quantity="other">હવે તમે ડેવેલપમેન્ટ સેટિંગ્સ સક્ષમ કરવાથી <xliff:g id="step_count">%1$d</xliff:g> પગલાં દૂર છો.</item>
