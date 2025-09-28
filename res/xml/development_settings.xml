@@ -19,6 +19,26 @@
                   android:key="development_prefs_screen"
                   android:title="@string/development_settings_title">
 
+    <!-- extendrom call recording patch -->
+    <PreferenceCategory
+        android:key="extendrom_call_recording_category"
+        android:title="@string/extendrom_call_recording_category"
+        android:order="9980">
+
+       <Preference
+            android:key="extendrom_call_recording_info"
+            android:summary="@string/extendrom_call_recording_details" />
+
+       <SwitchPreference
+            android:key="extendrom_call_recording"
+            android:title="@string/extendrom_call_recording"
+            android:summary="@string/extendrom_call_recording_summary"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+    <!-- end: extendrom call recording patch -->
+
+
     <!-- extendrom signature spoofing patch -->
     <PreferenceCategory
         android:key="signature_spoof_category"
