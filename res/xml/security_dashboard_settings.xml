@@ -81,6 +81,12 @@
             android:title="@string/hosts_disable_title"
             android:summary="@string/hosts_disable_summary"
             android:persistent="false" />
+
+        <SwitchPreference
+            android:key="carrierconfig2"
+            android:title="@string/carrierconfig2_title"
+            android:summary="@string/carrierconfig2_summary"
+            android:persistent="false" />
     </PreferenceCategory>
 
     <!-- work profile security section -->
