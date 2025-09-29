@@ -30,7 +30,7 @@
     <string name="adb_enable_summary_root">允許以 root 身份進行 Android 偵錯</string>
     <string name="berry_black_theme_title">純黑色</string>
     <string name="berry_black_theme_summary">深色主題使用純黑色的背景</string>
-    <string name="lineagelicense_title">LineageOS 法律條款</string>
+    <string name="lineagelicense_title">AXP.OS-slim 法律條款</string>
     <string name="status_bar_double_tap_to_sleep_title">輕觸即可休眠</string>
     <string name="status_bar_double_tap_to_sleep_summary">輕觸兩下狀態列或鎖定來關閉螢幕</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm" product="tablet">在您的平板 <xliff:g id="sensor_location">%1$s</xliff:g> 找到指紋感應器。</string>
