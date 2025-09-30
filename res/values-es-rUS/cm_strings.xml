@@ -34,7 +34,7 @@
     <string name="adb_over_network">ADB sobre red</string>
     <string name="adb_over_network_summary">Activar la depuración TCP/IP sobre las interfaces de red (Wi\u2011Fi, redes USB). Este ajuste se restablece al reiniciar el dispositivo</string>
     <string name="adb_over_network_warning">ADVERTENCIA: Al activar ADB sobre red, el dispositivo estará abierto para intrusiones en todas las redes conectadas.\n\nUsa esta característica solamente al conectar a redes de confianza.\n\n¿Realmente quieres activar esta característica?</string>
-    <string name="lineagelicense_title">Licencia de LineageOS</string>
+    <string name="lineagelicense_title">Licencia de AXP.OS</string>
     <string name="kill_app_longpress_back">Cerrar aplicaciones con el botón volver</string>
     <string name="kill_app_longpress_back_summary">Finalizar la aplicación actual al mantener pulsado el botón atrás</string>
     <string name="device_hostname">Nombre del dispositivo</string>
